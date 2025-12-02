@@ -4,7 +4,7 @@
 
 # Troubleshooting Script for Ubuntu and CentOs
 
-# Author: Juliette Josepg-Odogbo
+# Author: Juliette Joseph-Odogbo
 
 # Purpose
 
